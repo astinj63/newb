@@ -1,0 +1,25 @@
+{
+  "name": "astinj63-one",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/astinj63/newb.git"
+  },
+  "license": "ISC", 
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+  	"astinj63": "^1.0.0",
+  	"wlund535": "^1.0.0",
+	"wlund535-one": "^1.0.0",
+	"kea8524": "^1.0.0",
+	"kea8524-one": "^1.0.0",
+  	"guzibiji": "^1.0.0"
+  	
+  },
+  "author": "",
+  "license": "ISC"
+}
